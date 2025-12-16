@@ -31,10 +31,20 @@
   </a>
   <a href="https://www.linkedin.com/in/shivammmmg/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://shivammmmg.com/">
-    <img src="https://img.shields.io/badge/Portfolio-00FF7F?style=for-the-badge&logo=internet-explorer&logoColor=black"/>
-  </a>
-</p>
+
+   
 
 <p align="center"><i>⚡ Portfolio site in progress</i></p>
+
+---
+
+<h3 align="center">🧠 About Me</h3>
+
+<p align="center">
+  I'm a Software Engineering student with a builder mindset — I love turning ideas into real systems that blend code, logic, and hardware.
+  <br/><br/>
+  My background is rooted in embedded systems, digital logic, and control — now I'm transitioning into the world of AI, Machine Learning, and GenAI, one layer at a time.
+  <br/><br/>
+  I care about engineering depth over surface-level skills — writing clean, understandable code, and solving real problems with clarity and purpose.
+</p>
+
