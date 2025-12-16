@@ -41,4 +41,4 @@
   </a>
 </p>
 
-<p align="center"><i>⚡ Portfolio site in progress — more coming soon!</i></p>
+<p align="center"><i>⚡ Portfolio site in progress</i></p>
