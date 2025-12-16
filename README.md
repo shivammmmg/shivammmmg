@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shivam+Gupta.;Aspiring+AI%2FML+Engineer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shivam+Gupta;Aspiring+AI%2FML+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GenAI-%F0%9F%96%A5%EF%B8%8F-purple?style=for-the-badge" />
-</p>
 
 ---
 
