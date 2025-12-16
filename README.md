@@ -41,3 +41,54 @@
   <br/><br/>
    I value <strong>clarity, clean code, and depth</strong> over surface-level hype, I build with purpose, not just tutorials.
 </p>
+
+
+---
+
+<h3 align="center">💼 Technical Proficiencies</h3>
+
+<h4 align="center">Programming Languages</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-F57C00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-404040?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+<h4 align="center">Embedded Systems & Hardware</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firmata4J-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FPGAs-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RISC--V-grey?style=flat-square"/>
+</p>
+
+<h4 align="center">AI/ML & Data</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-00BFA6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GenAI-00C853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-7C4DFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-616161?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-1565C0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-42A5F5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithm%20Development-9C27B0?style=flat-square"/>
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square"/>
+</p>
+
