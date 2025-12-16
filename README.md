@@ -78,6 +78,98 @@ I value **clarity, clean code, and depth** over surface-level hype. I build with
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+---
+
+## ⭐ Featured Projects
+
+---
+
+### 🏆 YorkU Conference Room Scheduler  
+**Flagship Project**
+
+<img src="https://img.shields.io/badge/Java-F57C00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaFX-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-%2300b894?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVC-7f8c8d?style=flat-square"/>
+
+A full-fledged **Java desktop application** designed to manage conference room bookings for real university use cases.  
+Built with a strong focus on **system architecture**, **usability**, and **real-world constraints**.
+
+**What makes it stand out:**
+- End-to-end **system design** (authentication → booking → confirmation)
+- **Role-based access control** (users, admins)
+- Clean, structured **desktop UI**
+- Booking constraints (time slots, capacity, equipment)
+- Designed around realistic university workflows
+
+🔗 **Repository:**  
+👉 [ConferenceRoomSchedulerYorkU](https://github.com/shivammmmg/ConferenceRoomSchedulerYorkU)
+
+---
+
+### 🚦 Smart Traffic Light Controller  
+**FPGA · Verilog**
+
+<img src="https://img.shields.io/badge/Verilog-404040?style=flat-square"/>
+<img src="https://img.shields.io/badge/FSM%20Design-9C27B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Intel%20Quartus-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/DE10--Lite-FPGA-0071C5?style=flat-square"/>
+
+An **FPGA-based traffic light controller** implemented on the **Intel DE10-Lite**, using a **Moore FSM** for deterministic, timing-accurate control.
+
+**Key features:**
+- Pedestrian crossing logic
+- Night-mode operation
+- Timing-critical state transitions
+- Hardware-accurate FSM implementation
+
+🔗 **Repository:**  
+👉 [Smart-Traffic-Light-Controller-FPGA](https://github.com/shivammmmg/Smart-Traffic-Light-Controller-FPGA)
+
+---
+
+### 📡 Ultrasonic Radar System  
+**MATLAB · Visualization**
+
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ultrasonic%20Sensors-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-4A90E2?style=flat-square"/>
+
+A radar-style system that computes **distance and angle** using ultrasonic sensing and visualizes results dynamically using MATLAB.
+
+**Key features:**
+- Real-time distance calculations
+- Polar / radar-style visualization
+- Noise handling and measurement logic
+- Strong math + visualization foundation
+
+🔗 **Repository:**  
+👉 [ULTRASONIC-RADAR](https://github.com/shivammmmg/ULTRASONIC-RADAR)
+
+---
+
+### 🌆 Smart Urban Environmental Monitoring System  
+**IoT · Hardware–Software Integration**
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F57C00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sensors-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Serial%20Communication-6c5ce7?style=flat-square"/>
+
+A **multi-sensor environmental monitoring system** that collects live environmental data and visualizes it through a Java-based application.
+
+**Key features:**
+- Real-time sensor data acquisition
+- Hardware–software integration
+- Java-based visualization dashboard
+- IoT-style system architecture
+
+🔗 **Repository:**  
+👉 [Smart-Urban-Environmental-Monitoring-System](https://github.com/shivammmmg/Smart-Urban-Environmental-Monitoring-System)
+
+---
+
+
 ### 🏗️ Engineering Domains
 <p>
   <img src="https://img.shields.io/badge/Embedded%20Systems-%23FF6F00?style=flat-square"/>
