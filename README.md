@@ -59,8 +59,8 @@ Distance + angle detection with **MATLAB radar-style visualization**.
 
 ## 🤝 Connect
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/shivammmmg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:inbox11shivam@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ⭐ Thanks for visiting — more projects coming as I progress toward ML & GenAI.
