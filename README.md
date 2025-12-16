@@ -1,5 +1,3 @@
-where should i add in here
-
 <!-- ✅ INTRO: Centered -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shivam+Gupta.;Aspiring+AI%2FML+Engineer." alt="Typing SVG" />
