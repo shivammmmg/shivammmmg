@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Verilog-404040?style=flat-square"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
 <h4 align="center">Embedded Systems & Hardware</h4>
@@ -69,17 +68,6 @@
   <img src="https://img.shields.io/badge/RISC--V-grey?style=flat-square"/>
 </p>
 
-<h4 align="center">AI/ML & Data</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-00BFA6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GenAI-00C853?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-7C4DFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Modeling-616161?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-1565C0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-42A5F5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Algorithm%20Development-9C27B0?style=flat-square"/>
-</p>
 
 <h4 align="center">Tools & Platforms</h4>
 
