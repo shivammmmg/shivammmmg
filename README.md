@@ -10,7 +10,6 @@
   Lassonde School of Engineering, York University <br/>
   📍 Toronto, Canada
 </p>
----
 
 <h3 align="center">🤝 Connect with Me</h3>
 
