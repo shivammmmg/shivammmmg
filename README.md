@@ -50,11 +50,11 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  💻 I’m a <strong>Software Engineering student</strong> with a builder mindset — I love turning real-world ideas into code + systems.
+   I’m a <strong>Software Engineering student</strong> with a builder mindset. I love turning real-world ideas into code + systems.
   <br/><br/>
-  🧰 My foundation is in <strong>embedded systems</strong>, <strong>digital logic</strong>, and <strong>control</strong> — where timing, constraints, and hardware meet software.
+   My foundation is in <strong>embedded systems</strong>, <strong>digital logic</strong>, and <strong>control</strong> where timing, constraints, and hardware meet software.
   <br/><br/>
-  🤖 I’m now diving deep into <strong>AI/ML and GenAI</strong>, bridging low-level engineering with high-level intelligence.
+   I’m now diving deep into <strong>AI/ML and GenAI</strong>, bridging low-level engineering with high-level intelligence.
   <br/><br/>
-  🧠 I value <strong>clarity, clean code, and depth</strong> over surface-level hype — I build with purpose, not just tutorials.
+   I value <strong>clarity, clean code, and depth</strong> over surface-level hype, I build with purpose, not just tutorials.
 </p>
