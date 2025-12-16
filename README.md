@@ -11,7 +11,6 @@
   📍 Toronto, Canada
 </p>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F57C00?style=flat&logo=java&logoColor=white" />
