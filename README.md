@@ -2,16 +2,44 @@
   <img src="assets/banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Hey, I'm Shivam 👋</h1>
+<br/>
+
+<h1 align="center">Shivam Gupta</h1>
 
 <p align="center">
-  <b>Software Engineering Student</b> @ Lassonde School of Engineering, York University<br/>
-  📍 Toronto, Canada &nbsp;•&nbsp; ⚙️ Java • MATLAB • Arduino • Verilog &nbsp;•&nbsp; 📚 Learning Python → ML
+  <b>BEng Software Engineering (CEAB-Accredited)</b><br/>
+  Lassonde School of Engineering, York University<br/>
+  📍 Toronto, Canada
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=AI-focused+SWE+Student+%7C+Builder+Mindset;Python+%E2%86%92+Machine+Learning+%E2%86%92+GenAI" />
+  ⚙️ Java • Python • MATLAB • Arduino • Verilog
 </p>
+
+<br/>
+
+<!-- custom divider -->
+<p align="center">
+  <svg width="420" height="10" viewBox="0 0 420 10" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0d1117;stop-opacity:0"/>
+        <stop offset="50%" style="stop-color:#58A6FF;stop-opacity:1"/>
+        <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="4" width="420" height="2" fill="url(#grad)"/>
+  </svg>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>AI-focused Software Engineering student with a builder mindset</i><br/>
+  <i>Strong engineering foundations → Python → Machine Learning → GenAI</i>
+</p>
+
+<br/>
 
 <p align="center">
   <img src="assets/hero.gif" width="820" alt="hero" />
@@ -20,47 +48,66 @@
 ---
 
 ## 🚀 About Me
-I like building **real-world systems** — where software meets logic, sensors, and engineering constraints.  
-Right now, my projects focus on **IoT, embedded workflows, FPGA design, and visualization**.  
-My long-term direction is **AI/ML → GenAI**, and I’m building the fundamentals step-by-step.
+
+I build **real-world engineering systems** where software meets logic, sensors, timing, and constraints.
+
+My work so far spans:
+- Embedded & IoT systems
+- FPGA-based digital design
+- Control logic and real-time visualization
+
+I’m intentionally transitioning toward **AI / ML and GenAI**, building depth step-by-step instead of rushing surface-level skills.
 
 ---
 
 ## 🧩 Featured Projects
-> (Pinned repos on my profile)
+*(Pinned on my profile)*
 
-### 🌆 Smart Urban Environmental Monitoring System
-Multi-sensor monitoring with **real-time visualization** using **Arduino + Java + Firmata4J**.
+### 🌆 Smart Urban Environmental Monitoring System  
+Multi-sensor monitoring with **real-time visualization** using Arduino, Java, and Firmata4J.
 
-### 🌱 Auto Plant Watering System
-Automated irrigation using moisture sensing + threshold logic (**Arduino + Java + MATLAB**).
+### 🌱 Auto Plant Watering System  
+Automated irrigation system driven by moisture thresholds and control logic  
+(Arduino + Java + MATLAB).
 
-### 🚦 Smart Traffic Light Controller (FPGA – Verilog)
-FPGA-based controller using a **Moore FSM**, pedestrian handling, night mode, and timers.
+### 🚦 Smart Traffic Light Controller (FPGA – Verilog)  
+Moore FSM-based controller with pedestrian handling, night mode, and hardware timers.
 
-### 📡 Ultrasonic Radar System
-Distance + angle detection with **MATLAB radar-style visualization**.
+### 📡 Ultrasonic Radar System  
+Object detection with distance + angle mapping using MATLAB radar-style visualization.
 
 ---
 
-## 🛠️ Tech Stack (Current)
-**Languages:** Java • MATLAB • Verilog • C  
-**Tools:** Arduino IDE • Git/GitHub  
-**Domains:** Embedded Systems • IoT • Digital Logic • Control Systems
+## 🛠️ Technical Stack (Current)
+
+**Languages**  
+Java • Python • MATLAB • Verilog • C  
+
+**Tools**  
+Arduino IDE • Git • GitHub  
+
+**Domains**  
+Embedded Systems • IoT • Digital Logic • Control Systems
 
 ---
 
 ## 🎯 Current Focus
+
 - Strengthening **Python** fundamentals  
-- Building ML foundations (data handling + core models)  
-- Improving clean code, structure, and documentation
+- Building **Machine Learning foundations**  
+- Writing cleaner, more structured, and well-documented code  
 
 ---
 
 ## 🤝 Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/shivammmmg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:inbox11shivam@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/shivammmmg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:inbox11shivam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-⭐ Thanks for visiting — more projects coming as I progress toward ML & GenAI.
+⭐ This profile reflects a long-term journey — more projects coming as I progress toward ML & GenAI.
