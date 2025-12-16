@@ -83,4 +83,14 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+<h4 align="center">🔹 Engineering Domains</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-%23FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IoT-%2300ACC1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Digital%20Logic-%239C27B0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Control%20Systems-%23007396?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Real--time%20Systems-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Integration-grey?style=flat-square" title="Hardware + Software"/>
+</p>
 
