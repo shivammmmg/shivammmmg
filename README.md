@@ -43,9 +43,9 @@ I value **clarity, clean code, and depth** over surface-level hype. I build with
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-### 🔹 Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-F57C00?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Learning + scripting"/>
@@ -56,7 +56,7 @@ I value **clarity, clean code, and depth** over surface-level hype. I build with
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" title="Basic scripting"/>
 </p>
 
-### 🔹 Embedded Systems & Hardware
+### ⚙️ Embedded Systems & Hardware
 <p>
   <img src="https://img.shields.io/badge/Arduino%20(UNO%2C%20sensors)-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/FPGA%20(Intel%20DE10--Lite)-0071C5?style=flat-square&logo=intel&logoColor=white"/>
@@ -67,7 +67,7 @@ I value **clarity, clean code, and depth** over surface-level hype. I build with
   <img src="https://img.shields.io/badge/RISC--V-grey?style=flat-square" title="Academic exposure"/>
 </p>
 
-### 🔹 Tools & Platforms
+### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -78,7 +78,7 @@ I value **clarity, clean code, and depth** over surface-level hype. I build with
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 🔹 Engineering Domains
+### 🏗️ Engineering Domains
 <p>
   <img src="https://img.shields.io/badge/Embedded%20Systems-%23FF6F00?style=flat-square"/>
   <img src="https://img.shields.io/badge/IoT-%2300ACC1?style=flat-square"/>
