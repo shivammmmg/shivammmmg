@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shivam+Gupta;Aspiring+AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shivam+Gupta.;Aspiring+AI%2FML+Engineer." alt="Typing SVG" />
 </p>
 
 ---
@@ -11,6 +11,7 @@
   📍 Toronto, Canada
 </p>
 
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F57C00?style=flat&logo=java&logoColor=white" />
@@ -20,6 +21,10 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenAI-%F0%9F%96%A5%EF%B8%8F-purple?style=for-the-badge" />
+</p>
 
 ---
 
@@ -31,20 +36,25 @@
   </a>
   <a href="https://www.linkedin.com/in/shivammmmg/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://shivammmmg.com/">
+    <img src="https://img.shields.io/badge/Portfolio-00FF7F?style=for-the-badge&logo=internet-explorer&logoColor=black"/>
+  </a>
+</p>
 
-   
+<p align="center"><i>⚡ Portfolio site in progress — more coming soon!</i></p>
 
-<p align="center"><i>⚡ Portfolio site in progress</i></p>
 
 ---
 
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  I'm a Software Engineering student with a builder mindset — I love turning ideas into real systems that blend code, logic, and hardware.
+  💻 I’m a <strong>Software Engineering student</strong> with a builder mindset — I love turning real-world ideas into code + systems.
   <br/><br/>
-  My background is rooted in embedded systems, digital logic, and control — now I'm transitioning into the world of AI, Machine Learning, and GenAI, one layer at a time.
+  🧰 My foundation is in <strong>embedded systems</strong>, <strong>digital logic</strong>, and <strong>control</strong> — where timing, constraints, and hardware meet software.
   <br/><br/>
-  I care about engineering depth over surface-level skills — writing clean, understandable code, and solving real problems with clarity and purpose.
+  🤖 I’m now diving deep into <strong>AI/ML and GenAI</strong>, bridging low-level engineering with high-level intelligence.
+  <br/><br/>
+  🧠 I value <strong>clarity, clean code, and depth</strong> over surface-level hype — I build with purpose, not just tutorials.
 </p>
-
