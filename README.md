@@ -3,12 +3,6 @@
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139199716?v=4" width="140" />
-</p>
-
 <h3 align="center">BEng Software Engineering (CEAB-Accredited)</h3>
 <p align="center">
   Lassonde School of Engineering, York University <br/>
