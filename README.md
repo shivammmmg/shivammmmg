@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/GenAI-%F0%9F%96%A5%EF%B8%8F-purple?style=for-the-badge" />
 </p>
 
-### 🤝 Connect with Me
+<h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
   <a href="mailto:inbox11shivam@gmail.com">
@@ -35,4 +35,6 @@
     <img src="https://img.shields.io/badge/Portfolio-00FF7F?style=for-the-badge&logo=internet-explorer&logoColor=black"/>
   </a>
 </p>
-<p align="center"><i>🚧 Portfolio site in progress — more coming soon!</i></p>
+
+<p align="center"><i>⚡ Portfolio site in progress — more coming soon!</i></p>
+
