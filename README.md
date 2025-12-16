@@ -10,22 +10,6 @@
   Lassonde School of Engineering, York University <br/>
   📍 Toronto, Canada
 </p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-F57C00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-555555?style=flat" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GenAI-%F0%9F%96%A5%EF%B8%8F-purple?style=for-the-badge" />
-</p>
-
 ---
 
 <h3 align="center">🤝 Connect with Me</h3>
