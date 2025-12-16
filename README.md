@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F57C00&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Shivam+Gupta.;Aspiring+AI%2FML+Engineer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Shivam+Gupta.;Aspiring+AI%2FML+Engineer." alt="Typing SVG" />
 </p>
+
 
 
 
