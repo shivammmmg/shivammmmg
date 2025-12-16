@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F57C00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shivam+Gupta+👋;AI-Focused+Software+Engineering+Student;Builder+%7C+Embedded+%2B+ML+Crossover+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Shivam+Gupta;AI focused+Software+Engineering+Student;Builder+mindset+%7C+Embedded+to+ML+journey" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/139199716?v=4" width="140" />
