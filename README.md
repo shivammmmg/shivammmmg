@@ -3,10 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F57C00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shivam+Gupta+👋;AI-Focused+Software+Engineering+Student;Builder+%7C+Embedded+%2B+ML+Crossover+Engineer" alt="Typing SVG" />
 </p>
 
+
 <!-- 🖼 Profile image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" width="140" />
+  <img src="https://avatars.githubusercontent.com/u/139199716?v=4" width="140" />
 </p>
+
 
 <h3 align="center">BEng Software Engineering (CEAB-Accredited)</h3>
 <p align="center">
