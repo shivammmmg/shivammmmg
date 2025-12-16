@@ -13,7 +13,6 @@
   📍 Toronto, Canada
 </p>
 
----
 
 <!-- ✅ CONNECT: Centered -->
 <h3 align="center">🤝 Connect with Me</h3>
